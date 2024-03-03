@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Excellent Furniture",
+    "description": "",
+    "home_page_url": "https://ayusiasia.github.io/furniture",
+    "feed_url": "https://ayusiasia.github.io/furniture/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "ff"
+    },
+    "items": [
+    ]
+}
