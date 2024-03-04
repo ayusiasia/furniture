@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ayusiasia.github.io/furniture/sitemap.xml
+Sitemap: https://www.excellent-furniture.com/sitemap.xml
