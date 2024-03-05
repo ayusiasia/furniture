@@ -3,10 +3,52 @@
     <title>Excellent Furniture</title>
     <link href="https://www.excellent-furniture.com/feed.xml" rel="self" />
     <link href="https://www.excellent-furniture.com" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-03-05T20:09:07+08:00</updated>
     <author>
         <name>ff</name>
     </author>
     <id>https://www.excellent-furniture.com</id>
 
+    <entry>
+        <title>good pillow</title>
+        <author>
+            <name>ff</name>
+        </author>
+        <link href="https://www.excellent-furniture.com/good-pillow.html"/>
+        <id>https://www.excellent-furniture.com/good-pillow.html</id>
+            <category term="Pillow"/>
+
+        <updated>2024-03-05T20:09:07+08:00</updated>
+            <summary>
+                <![CDATA[
+                    provide good pillows
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>provide good pillows</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>second sofa</title>
+        <author>
+            <name>ff</name>
+        </author>
+        <link href="https://www.excellent-furniture.com/second-sofa.html"/>
+        <id>https://www.excellent-furniture.com/second-sofa.html</id>
+            <category term="Sofa"/>
+
+        <updated>2024-03-05T20:08:45+08:00</updated>
+            <summary>
+                <![CDATA[
+                    the secod sofa
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>the secod sofa</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
