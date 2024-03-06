@@ -3,32 +3,12 @@
     <title>Excellent Furniture</title>
     <link href="https://www.excellent-furniture.com/feed.xml" rel="self" />
     <link href="https://www.excellent-furniture.com" />
-    <updated>2024-03-06T09:47:29+08:00</updated>
+    <updated>2024-03-05T20:09:07+08:00</updated>
     <author>
         <name>ff</name>
     </author>
     <id>https://www.excellent-furniture.com</id>
 
-    <entry>
-        <title>Contact us</title>
-        <author>
-            <name>ff</name>
-        </author>
-        <link href="https://www.excellent-furniture.com/contact-us.html"/>
-        <id>https://www.excellent-furniture.com/contact-us.html</id>
-
-        <updated>2024-03-06T09:47:29+08:00</updated>
-            <summary>
-                <![CDATA[
-                    we are a excellent furniture provider
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>we are a excellent furniture provider</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>good pillow</title>
         <author>

@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://www.excellent-furniture.com/contact-us.html",
-            "url": "https://www.excellent-furniture.com/contact-us.html",
-            "title": "Contact us",
-            "summary": "we are a excellent furniture provider",
-            "content_html": "<p>we are a excellent furniture provider</p>",
-            "author": {
-                "name": "ff"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-03-06T09:47:29+08:00",
-            "date_modified": "2024-03-06T09:47:29+08:00"
-        },
-        {
             "id": "https://www.excellent-furniture.com/good-pillow.html",
             "url": "https://www.excellent-furniture.com/good-pillow.html",
             "title": "good pillow",
